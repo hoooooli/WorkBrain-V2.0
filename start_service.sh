@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash1111
 
 # 定义根目录
 ROOT_DIR=$(pwd)
